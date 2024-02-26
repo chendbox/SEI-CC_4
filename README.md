@@ -1,8 +1,3 @@
-<img src="https://i.imgur.com/XseXU8J.png" width="900">
-
-# Welcome to General Assembly SEI-CC-4
-
-This will be your shared class repo! Guides, in-class labs and code samples, and other resources will live here.
 
 ### Contents
 
